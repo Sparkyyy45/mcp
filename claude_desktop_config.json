@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "employee-db": {
+      "command": "C:\\Users\\suyas\\AppData\\Local\\hermes\\bin\\uv.exe",
+      "args": [
+        "--directory",
+        "C:\\Users\\suyas\\Downloads\\mcp-test",
+        "run",
+        "server.py"
+      ]
+    }
+  }
+}
